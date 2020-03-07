@@ -27,16 +27,16 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-5829ce33fbb20a07224c.js"
+    "url": "webpack-runtime-9ad850378cb9c4b9083a.js"
   },
   {
-    "url": "styles.77f2cb9db56c35af0d8c.css"
+    "url": "styles.0f22a94ca02bd1d4a801.css"
   },
   {
     "url": "styles-b71548726caaa378e706.js"
   },
   {
-    "url": "commons-b92415d8fca0e4b7451c.js"
+    "url": "commons-33a7e8f035a0a3967519.js"
   },
   {
     "url": "netlify-identity-widget-2bc56018afe17beafa40.js"
@@ -49,11 +49,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "25a49395bf49b0bd0756382c5d2bdbe4"
-  },
-  {
-    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "c355c8040c47a63bfb3360e4b7cb6553"
+    "revision": "89eff0946046ef18076764bdde218d92"
   },
   {
     "url": "manifest.webmanifest",
