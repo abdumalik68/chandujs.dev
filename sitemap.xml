@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://chandujs.dev/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/blog/static-website-hosting-with-github-actions-4g0d</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/blog/wildcard-subdomains-github-pages-38fh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/blog/how-to-take-screenshots-from-chrome-51kj</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -9,7 +8,6 @@
 <url> <loc>https://chandujs.dev/blog/how-to-join-two-arrays-in-javascript-2679</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/blog/catch-exceptions-in-flutter-with-catcher-sentry-cpn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/blog/hot-module-replacement-in-angular-2ckl</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/2048-game</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/abhaye</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/altos</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -20,9 +18,6 @@
 <url> <loc>https://chandujs.dev/work/caya-property</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/chandujs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/cibi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/diabeez</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/elaenor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/etc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/gcs-alt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/gcs-protech</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/habshi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -30,21 +25,26 @@
 <url> <loc>https://chandujs.dev/work/insultherm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/janatha</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/kannus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/mak</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/msh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/my-studies</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/ophir</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/pristine-cars</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/protech</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/purefm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/qcs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/my-studies</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/score-advisory</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/sptc-intranet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/smyrna</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/sptc-intranet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/trueway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/webhook-manager</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/msh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/mak</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/etc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/elaenor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/diabeez</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/resume/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/uses/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
