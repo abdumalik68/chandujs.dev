@@ -39,9 +39,9 @@
 <url> <loc>https://chandujs.dev/work/tranz</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/trueway</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/webhook-manager</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/chandujs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chandujs.dev/work/cibi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/work/diabeez</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/cibi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chandujs.dev/work/chandujs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chandujs.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
